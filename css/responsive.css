@@ -3,7 +3,7 @@
 @media screen and (min-width: 768px) and (max-width:1024px) {
   
   .home {
-    padding-top:400px;
+    padding-top:200px;
     height: 100%;
     overflow: hidden;
     -webkit-box-align: center;
@@ -426,7 +426,7 @@
   }
   
   .contact__list .text-secondary{
-    text-shadow:1px 1px #00ff00;
+/*     text-shadow:1px 1px #00ff00; */
     font-family:cursive;
     font-size:17px;
   }
@@ -582,9 +582,10 @@
   }
   
   .contact__list .text-secondary{
-    text-shadow:1px 1px #00ff00;
+    text-shadow:none;
     font-family:cursive;
     font-size:17px;
+    margin-top:5px;
   }
   
   .contact .social-icons {
@@ -733,9 +734,10 @@
   }
   
   .contact__list .text-secondary{
-    text-shadow:1px 1px #00ff00;
+    text-shadow:none;
     font-family:cursive;
     font-size:15px;
+    margin-top:5px;
   }
   
   .contact .social-icons {
@@ -877,9 +879,10 @@
   }
   
   .contact__list .text-secondary{
-    text-shadow:1px 1px #00ff00;
+    text-shadow:none;
     font-family:cursive;
     font-size:13px;
+    margin-top:5px;
   }
   
   .contact .social-icons {
