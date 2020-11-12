@@ -112,7 +112,7 @@
   .about__bio-image p {
   margin-bottom: 2rem;
   font-size:12px;
-  font-family:cursive;
+  font-family:monospace;
   }
   
   .about__bio {
@@ -335,7 +335,7 @@
   .about__bio-image p {
   margin-bottom: 2rem;
   font-size:12px;
-  font-family:cursive;
+  font-family:monospace;
   }
   
   .about__bio {
@@ -523,7 +523,7 @@
   .about__bio-image p {
     margin-bottom: 2rem;
     font-size:12px;
-    font-family:cursive;
+    font-family:monospace;
   }
   
   .about__bio {
@@ -678,7 +678,7 @@
   .about__bio-image p {
     margin-bottom: 2rem;
     font-size:12px;
-    font-family:cursive;
+    font-family:monospace;
     }
   
   .about__bio {
@@ -821,7 +821,7 @@
    .about__bio-image p {
       margin-bottom: 2rem;
       font-size:12px;
-      font-family:cursive;
+      font-family:monospace;
    }
   
   .about__bio {
